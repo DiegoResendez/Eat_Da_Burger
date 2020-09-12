@@ -1,0 +1,27 @@
+{
+  "name": "eat_da_burger",
+  "version": "1.0.0",
+  "description": "Burger App",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoResendez/Eat_Da_Burger.git"
+  },
+  "keywords": [
+    "Burger"
+  ],
+  "author": "diegoresendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoResendez/Eat_Da_Burger/issues"
+  },
+  "homepage": "https://github.com/DiegoResendez/Eat_Da_Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
