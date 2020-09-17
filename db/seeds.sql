@@ -1,5 +1,5 @@
-INSERT INTO burgers (burger_name) VALUES("Bacon Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES("Philly Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES("Black N Blue Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES("Vegan Cheeseburger");
-INSERT INTO burgers (burger_name) VALUES("Double Bacon Cheeseburger");
+INSERT INTO burgers (burger_name, devoured) VALUES("Bacon Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES("Philly Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES("Black N Blue Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES("Vegan Cheeseburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES("Double Bacon Cheeseburger", FALSE);
